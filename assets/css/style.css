@@ -12131,12 +12131,7 @@ select.gfort-form-control:focus,
 	background-color: #b2b2b2
 }
 
-.gfort-navbar-collapse-mobile-menu,
-.gfort-navbar-collapse-desktop-menu .gfort-navbar-nav>.megamenu>ul,
-.gfort-navbar-collapse-desktop-menu .gfort-navbar-nav>.gfort-nav-item:not(.megamenu) ul li,
-.gfort-section-header-off-canvas-menu {
-	background-color: #1f1f1f
-}
+
 
 .gfort-navbar-collapse-mobile-menu .gfort-navbar-buttons .gfort-form-block-header-search-mobile input {
 	background-color: #333
